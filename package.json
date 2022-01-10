@@ -13,7 +13,7 @@
     "prestart": "yarn clean",
     "start": "parcel serve src/public/index.html -p 2222",
     "prebuild": "yarn clean",
-    "build": "parcel build src/public/index.html"
+    "build": "parcel build src/public/index.html --public-url ."
   },
   "author": "",
   "license": "ISC",
