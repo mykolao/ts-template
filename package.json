@@ -21,8 +21,8 @@
     "@csstools/normalize.css": "^12.0.0"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.1.1",
+    "@parcel/transformer-sass": "2.4.1",
     "gh-pages": "^3.2.3",
-    "parcel": "^2.1.1"
+    "parcel": "^2.4.1"
   }
 }
