@@ -16,7 +16,7 @@
   "license": "ISC",
   "alias": {
     "components": "./src/components",
-    "pwa": "./public/pwa"
+    "favicon": "./public/favicon"
   },
   "dependencies": {
     "@csstools/normalize.css": "^12.0.0",
