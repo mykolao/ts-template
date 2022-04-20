@@ -1,5 +1,4 @@
-const hello = document.createElement('h1');
-hello.textContent = 'Hello Typescript ❤️';
-hello.style.color = 'white';
-hello.style.fontSize = '4rem';
-document.querySelector('.container')?.appendChild(hello);
+import { Hello } from 'components';
+
+const hello = new Hello('Hello Typescript ❤️');
+document.querySelector('.container')?.appendChild(hello.element);
