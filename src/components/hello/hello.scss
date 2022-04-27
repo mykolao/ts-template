@@ -1,4 +1,7 @@
+$size: 4rem;
+$color: rgba(255, 255, 255);
+
 .hello {
-  font-size: 4rem;
-  color: white;
+  color: $color;
+  font-size: $size;
 }
