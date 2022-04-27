@@ -20,7 +20,7 @@
   },
   "alias": {
     "components": "./src/components",
-    "favicon": "./public/favicon",
+    "favicon": "./src/public/favicon",
     "img": "./src/assets/img"
   },
   "dependencies": {
