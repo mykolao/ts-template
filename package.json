@@ -20,7 +20,8 @@
   },
   "alias": {
     "components": "./src/components",
-    "favicon": "./public/favicon"
+    "favicon": "./public/favicon",
+    "img": "./src/assets/img"
   },
   "dependencies": {
     "@csstools/normalize.css": "^12.0.0",
